@@ -46,3 +46,11 @@ group :development do
 end
 
 gem 'rspec-rails', group: [:test]
+
+gem 'faker'
+
+gem 'bootstrap-sass'
+
+gem 'font-awesome-sass'
+
+gem 'simple_form'
